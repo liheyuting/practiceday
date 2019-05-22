@@ -13,4 +13,6 @@ if 100>= n >= 90:
 elif n >= 60:
     print('B')
 else:
-    print("C")
+    print("C"
+
+          )
